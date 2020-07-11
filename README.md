@@ -33,10 +33,11 @@ $ python3 main.py
 
 ### Просмотр маршрута
 
+![Snimok_ekrana_2020-07-11_v_14_27_52](https://user-images.githubusercontent.com/36763228/87223206-b3a09880-c383-11ea-81ea-d0fe3467ff20.png)
 
 ### Построение карты
 
-
+![Snimok_ekrana_2020-07-11_v_14_28_42](https://user-images.githubusercontent.com/36763228/87223212-c1561e00-c383-11ea-8991-33d0385830f3.png)
 
 ## Зависимости
 Необходимые библиотеки для python:
